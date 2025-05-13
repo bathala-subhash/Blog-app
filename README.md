@@ -33,7 +33,7 @@ Make sure you have the following installed:
 - npm or yarn
 - MongoDB (if used locally)
 
-### Installation
+
 
 1. Clone the repository:
 
